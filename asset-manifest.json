@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hrushi-portfolio/static/css/main.7cf37bcf.css",
+    "main.js": "/hrushi-portfolio/static/js/main.b26ebb95.js",
+    "index.html": "/hrushi-portfolio/index.html",
+    "main.7cf37bcf.css.map": "/hrushi-portfolio/static/css/main.7cf37bcf.css.map",
+    "main.b26ebb95.js.map": "/hrushi-portfolio/static/js/main.b26ebb95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf37bcf.css",
+    "static/js/main.b26ebb95.js"
+  ]
+}
